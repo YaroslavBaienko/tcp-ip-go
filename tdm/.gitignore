@@ -1,0 +1,2 @@
+# Ignore all go.mod files
+**/go.mod

@@ -1,0 +1,6 @@
+Клиент 1 записывает данные в файл в Sat, 14 Sep 2024 20:55:30 EEST
+Клиент 2 записывает данные в файл в Sat, 14 Sep 2024 20:55:38 EEST
+Клиент 3 записывает данные в файл в Sat, 14 Sep 2024 20:55:47 EEST
+Client 1 writes data to the file at Sat, 14 Sep 2024 20:57:23 EEST
+Client 2 writes data to the file at Sat, 14 Sep 2024 20:57:31 EEST
+Client 3 writes data to the file at Sat, 14 Sep 2024 20:57:39 EEST
