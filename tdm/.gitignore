@@ -1,2 +1,4 @@
 # Ignore all go.mod files
 **/go.mod
+# Ignore all log files
+**/**log.txt
