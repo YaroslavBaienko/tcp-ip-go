@@ -1,4 +1,8 @@
-# Ignore all go.mod files
-**/go.mod
+# Ignore go.mod in fifogo directory
+fifogo/go.mod
+
+# Ignore go.mod in tdm directory
+tdm/go.mod
+
 # Ignore all log files
 **/**log.txt
